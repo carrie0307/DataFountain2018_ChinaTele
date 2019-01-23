@@ -8,6 +8,14 @@
 
     * [@carrie0307](https://github.com/carrie0307)
 
+
+* 队伍名称：  做作业
+
+* 最高排名：  第1名
+
+* 最终排名：A榜212名
+
+
 ## 最最最最最基本baseline
 
 根据大佬指导接把特征放到baseline就能跑到63%,相关baseline记录如下
